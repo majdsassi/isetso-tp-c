@@ -31,7 +31,7 @@ void main3(){
         printf("Devinnez ce que je fait !! \a \n") ;
     }
 }
-int main(void){
+int main4(void){
     for(int i = 0 ; i <= 1000 ; ++i){
         for (int j = i ; j<=1000 ; ++j){
             if (i*j==1000){
@@ -41,12 +41,7 @@ int main(void){
     }
     return 0 ;
 }
-void main60(){
-    //main1();
-    //main2();
-    //main3();
-    // main4() ;
-}
+
 int main5(void){
     unsigned int a = 46 ;
     unsigned int b= 42 ;
